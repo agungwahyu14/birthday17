@@ -7,7 +7,7 @@
 body {
   font-size: 1.2rem;
   font-family: "Work Sans", sans-serif;
-  min-height: 4000px;
+  min-height: 3000px;
 }
 
 .hero::before {
@@ -30,7 +30,7 @@ body {
 }
 
 .small-heading {
-  font-size: 30px; Ubah ukuran sesuai kebutuhan
+  font-size: 30px; 
 }
 
 .hero h1,
